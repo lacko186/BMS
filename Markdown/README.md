@@ -753,7 +753,7 @@ Normally, the design proceeds in 2 stages:
 
 * <h3><center>	BMS Use Case Diagram</center></h3>
 
- ![szerk](felepites.png)
+ ![szerk](felepites.PNG)
  
 <center><h4>(Figure 10 : BMS Use Case Diagram)</h4></center>
  
