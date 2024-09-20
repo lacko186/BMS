@@ -184,7 +184,7 @@ This is to certify that the Student **Makwana Dhaval** and **Baraiya Kumar** of 
         </tr>
         <tr>
             <td>11</td>
-            <td>Activity Diagram Symbols</td>
+            <td>Activity Diagram s</td>
             <td>32</td>
         </tr>
         <tr>
@@ -199,7 +199,7 @@ This is to certify that the Student **Makwana Dhaval** and **Baraiya Kumar** of 
         </tr>
         <tr>
             <td>14</td>
-            <td>E-R Diagram Symbols</td>
+            <td>E-R Diagram s</td>
             <td>35</td>
         </tr>
         <tr>
@@ -688,14 +688,15 @@ Normally, the design proceeds in 2 stages:
 ---
 
 ### <center>Standard Symbols used in DFD:</center>
-![symbol](symbol.png);
+
+![symbol](symbol.PNG);
 
 ###	 <center>(Figure 3 : Data Flow Diagram Symbols)</center> 
 
 * ###	 <center>0 Level DFD (Website Flow Diagram)</center> 
 
+![ágrajz](agrajz.PNG);
 
-<img src="ágrajz.png">
  
  
 <h3><center>(Figure 4 : 0 Level Data Flow Diagram)</center></h3>
@@ -708,7 +709,7 @@ Normally, the design proceeds in 2 stages:
 
 * ###	<center>Flowchart Diagram</center>
  
-![bmsd](bmsdiagram.png)
+![bmsd](bmsdiagram.PNG)
  
  ### <center>(Figure 6 : BMS Flowchart Diagram)</center>
 ---
@@ -717,7 +718,7 @@ Normally, the design proceeds in 2 stages:
 
 * #### 	<center>User Flow Diagram</center>
  
- ![flow](flow.png)
+ ![flow](flow.PNG)
  
 ### <center>(Figure 7 : User Flow Diagram)</center>
  
@@ -725,7 +726,8 @@ Normally, the design proceeds in 2 stages:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A use case is a set of scenarios that describing an interaction between a user and a system.  A use case diagram displays the relationship among actors and use cases.  The two main components of a use case diagram are use cases and actors.
 
-<center><img src="rajz.png"></center>
+![rajz](rajz.PNG);
+
  
  <br>
  
@@ -741,15 +743,18 @@ Normally, the design proceeds in 2 stages:
 
 
 *	### <center>User Use Case Diagram</center>
- 
- <img src="case.png">
+
+![case](case.PNG);
+
  
 <h4><center>(Figure 9 : User Use Case Diagram)</center></h4>
 
 
 
 * <h3><center>	BMS Use Case Diagram</center></h3>
- ![szerk](felepítes.png)
+
+ ![szerk](felepites.png)
+ 
 <center><h4>(Figure 10 : BMS Use Case Diagram)</h4></center>
  
 <center><h3>3.	Activity Diagram</h3></center>
@@ -1092,7 +1097,10 @@ Register Page for Viewers.
 
 
 ###### 6.	Contact Us Page
- <img src="contact.png">
+
+![contact](Contact.PNG);
+
+ 
 <p style="text-align: center;font-weight: bold">(Figure 21 : BMS Contact Us Page)</p>
 
 ###### 7.	Cart Page
