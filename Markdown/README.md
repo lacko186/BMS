@@ -1098,7 +1098,7 @@ Register Page for Viewers.
 
 ###### 6.	Contact Us Page
 
-![contact](Contact.PNG);
+![contact](Contact.png);
 
  
 <p style="text-align: center;font-weight: bold">(Figure 21 : BMS Contact Us Page)</p>
